@@ -31,7 +31,8 @@
 
 > Add screenshots of your dashboard, login page, complaints module, etc.  
 > Example:  
-> ![Dashboard]("C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-03-19 092248.png")
+> ![Screenshot 2025-03-19 092248](https://github.com/user-attachments/assets/83251658-275d-4f24-a38b-adfcd20e485a)
+
 
 ---
 
