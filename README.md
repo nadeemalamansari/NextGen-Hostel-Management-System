@@ -3,6 +3,7 @@
 **NextGen Hostel Management System** is a modern and comprehensive web-based application designed to manage all hostel-related operations efficiently. From student management and visitor logs to complaints, room allocation, and event updates — this system automates and streamlines the entire hostel management workflow.
 
 ---
+![Screenshot 2024-11-21 223934](https://github.com/user-attachments/assets/1263648a-4875-49b8-bce8-f42dcf941603)
 
 ## 🚀 Features
 
